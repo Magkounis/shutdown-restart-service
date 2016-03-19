@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\shutdownservice\shutdownservice\bin\Debug\shutdownservice.exe
+c:\users\administrator\documents\visual studio 2015\Projects\shutdownservice\shutdownservice\bin\Debug\shutdownservice.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\shutdownservice\shutdownservice\obj\Debug\shutdownservice.exe
+c:\users\administrator\documents\visual studio 2015\Projects\shutdownservice\shutdownservice\obj\Debug\shutdownservice.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\shutdownservice\shutdownservice\obj\Debug\shutdownservice.ProjectInstaller.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\shutdownservice\shutdownservice\obj\Debug\shutdownservice.csproj.GenerateResource.Cache
